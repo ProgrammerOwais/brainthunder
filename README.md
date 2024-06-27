@@ -52,3 +52,5 @@ And much more, including code architecture and reusability.
 
 The design is taken from
 <a href = "https://ui8.net/ui8/products/brainwave-ai-landing-page-kit?rel=jsm"> brainwave</a>
+
+<h5>Big Credit Goes to JsMastery</h5>

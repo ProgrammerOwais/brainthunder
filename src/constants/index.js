@@ -7,7 +7,6 @@ import {
   chromecast,
   disc02,
   discord,
-  discordBlack,
   facebook,
   figma,
   file02,
@@ -31,8 +30,8 @@ import {
   searchMd,
   slack,
   sliders04,
-  telegram,
-  twitter,
+  linkedin,
+  github,
   yourlogo,
 } from "../assets";
 
@@ -297,32 +296,26 @@ export const benefits = [
 export const socials = [
   {
     id: "0",
-    title: "Discord",
-    iconUrl: discordBlack,
-    url: "#",
+    title: "LinkedIn",
+    iconUrl: linkedin,
+    url: "https://www.linkedin.com/in/frontenddevexpert/",
   },
   {
     id: "1",
-    title: "Twitter",
-    iconUrl: twitter,
-    url: "#",
+    title: "GitHub",
+    iconUrl: github,
+    url: "https://github.com/ProgrammerOwais",
   },
   {
     id: "2",
     title: "Instagram",
     iconUrl: instagram,
-    url: "#",
-  },
-  {
-    id: "3",
-    title: "Telegram",
-    iconUrl: telegram,
-    url: "#",
+    url: "https://www.instagram.com/programmerowais/",
   },
   {
     id: "4",
     title: "Facebook",
     iconUrl: facebook,
-    url: "#",
+    url: "https://www.facebook.com/profile.php?id=100057764270618",
   },
 ];
