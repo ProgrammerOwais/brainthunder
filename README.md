@@ -47,3 +47,8 @@ Brainwave is a cutting-edge UI/UX website created with React.js and Tailwind CSS
 👉 **Responsive**: Ensures seamless functionality and aesthetics on all devices.
 
 And much more, including code architecture and reusability.
+
+### Website Design
+
+The design is taken from
+<a href = "https://ui8.net/ui8/products/brainwave-ai-landing-page-kit?rel=jsm"> brainwave</a>
